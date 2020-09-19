@@ -1,0 +1,7 @@
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\bin\Debug\ClientSpoofer.exe.config
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\bin\Debug\ClientSpoofer.exe
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\bin\Debug\ClientSpoofer.pdb
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\obj\Debug\ClientSpoofer.csprojAssemblyReference.cache
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\obj\Debug\ClientSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\obj\Debug\ClientSpoofer.exe
+C:\Users\dwad1\source\repos\ClientSpoofer\ClientSpoofer\obj\Debug\ClientSpoofer.pdb
